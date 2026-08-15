@@ -20,7 +20,7 @@ class Solution {
           else if(s.equals("C")) st.pop();
 
           else {
-             int x= Integer.parseInt(s);
+             int x= Integer.valueOf(s);
                 st.push(x);
           }
         }
