@@ -13,8 +13,8 @@ class Solution {
 
         }
         while(!st.isEmpty()){
-            sb.append(st.pop());
+           ans= st.pop()+ans ;
         }
-        return sb.reverse().toString();
+        return ans;
     }
 }
