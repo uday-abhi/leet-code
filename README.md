@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/uday-abhi/leet-code/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/uday-abhi/leet-code/tree/master/0860-lemonade-change) |
 | [2974-minimum-number-game](https://github.com/uday-abhi/leet-code/tree/master/2974-minimum-number-game) |
 ## Sorting
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/uday-abhi/leet-code/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/uday-abhi/leet-code/tree/master/0860-lemonade-change) |
 ## Quicksort
 |  |
 | ------- |
