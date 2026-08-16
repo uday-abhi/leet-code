@@ -19,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/uday-abhi/leet-code/tree/master/0455-assign-cookies) |
 | [2974-minimum-number-game](https://github.com/uday-abhi/leet-code/tree/master/2974-minimum-number-game) |
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/uday-abhi/leet-code/tree/master/0455-assign-cookies) |
 | [2974-minimum-number-game](https://github.com/uday-abhi/leet-code/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
@@ -32,4 +34,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/uday-abhi/leet-code/tree/master/2974-minimum-number-game) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/uday-abhi/leet-code/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/uday-abhi/leet-code/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/uday-abhi/leet-code/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
