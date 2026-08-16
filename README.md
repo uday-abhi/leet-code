@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/uday-abhi/leet-code/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/uday-abhi/leet-code/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/uday-abhi/leet-code/tree/master/0860-lemonade-change) |
 | [1029-two-city-scheduling](https://github.com/uday-abhi/leet-code/tree/master/1029-two-city-scheduling) |
 | [2974-minimum-number-game](https://github.com/uday-abhi/leet-code/tree/master/2974-minimum-number-game) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/uday-abhi/leet-code/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/uday-abhi/leet-code/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/uday-abhi/leet-code/tree/master/0860-lemonade-change) |
 | [1029-two-city-scheduling](https://github.com/uday-abhi/leet-code/tree/master/1029-two-city-scheduling) |
 ## Quicksort
