@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/uday-abhi/leet-code/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/uday-abhi/leet-code/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/uday-abhi/leet-code/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/uday-abhi/leet-code/tree/master/0860-lemonade-change) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/uday-abhi/leet-code/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/uday-abhi/leet-code/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/uday-abhi/leet-code/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/uday-abhi/leet-code/tree/master/0860-lemonade-change) |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/uday-abhi/leet-code/tree/master/1029-two-city-scheduling) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/uday-abhi/leet-code/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
