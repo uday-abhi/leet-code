@@ -80,5 +80,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/uday-abhi/leet-code/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/uday-abhi/leet-code/tree/master/0070-climbing-stairs) |
 | [0435-non-overlapping-intervals](https://github.com/uday-abhi/leet-code/tree/master/0435-non-overlapping-intervals) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/uday-abhi/leet-code/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/uday-abhi/leet-code/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
