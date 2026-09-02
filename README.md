@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/uday-abhi/leet-code/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/uday-abhi/leet-code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/uday-abhi/leet-code/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/uday-abhi/leet-code/tree/master/0189-rotate-array) |
 | [0435-non-overlapping-intervals](https://github.com/uday-abhi/leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/uday-abhi/leet-code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/uday-abhi/leet-code/tree/master/0455-assign-cookies) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/uday-abhi/leet-code/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/uday-abhi/leet-code/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/uday-abhi/leet-code/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/uday-abhi/leet-code/tree/master/0189-rotate-array) |
 ## Memoization
 |  |
 | ------- |
